@@ -1,3 +1,17 @@
+The Angular CLI ShoppingList project is a web application that allows users to create and manage their shopping lists. The application is built using the Angular CLI, a popular tool for developing Angular applications.
+
+Upon opening the application, users are presented with two sections: one to add items to the list and another to display their current shopping lists. The user can add items using the "Add to List" button and clear the list by clicking the button "Remove the List". The Angular CLI ShoppingList project provides a simple and intuitive way for users to create and manage their shopping lists using the Angular CLI framework.
+![Screenshot (2256)](https://user-images.githubusercontent.com/104863304/225960072-26d2d34f-b264-40ca-a13c-e96429f2c0e0.png)
+![Screenshot (2257)](https://user-images.githubusercontent.com/104863304/225960186-653965a1-4300-4e0e-a4ee-0d605fd1d241.png)
+![Screenshot (2258)](https://user-images.githubusercontent.com/104863304/225960308-6d5941b2-8320-4f28-8c58-5fd6e7dbdfa5.png)
+
+
+
+
+
+
+
+
 # Assign3
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.8.
